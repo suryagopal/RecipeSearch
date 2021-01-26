@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchRecipe</string>
+    <string name="query_hint">Enter Recipe name to Search</string>
+    <string name="list_of_ingredients">List of Ingredients</string>
+    <string name="search_error">No Recipes with that name</string>
+
+</resources>
